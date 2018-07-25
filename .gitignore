@@ -5,3 +5,4 @@ node_modules/*
 .DS_Store
 css/styles.css.map
 css/styles.css
+pages-old/
