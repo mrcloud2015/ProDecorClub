@@ -6,3 +6,4 @@ node_modules/*
 css/styles.css.map
 css/styles.css
 pages-old/
+.idea/
